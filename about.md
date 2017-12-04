@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Me
-I'm an athlete turned wannabe Nerd trying to improve my IT skills and find meaningful work.
+I'm an athlete turned wannabe Nerd trying to improve my IT skills and do meaningful work.
 
 #### Jekyll
 This site is built using Jekyll, github pages hosting and a simple DNS entry. The styling is vanilla. The site is meant to be about the content.
