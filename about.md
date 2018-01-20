@@ -10,9 +10,6 @@ I'm an athlete turned wannabe Nerd trying to improve my IT skills and do meaning
 #### Jekyll
 This site is built using Jekyll, github pages hosting and a simple DNS entry. The styling is vanilla. The site is meant to be about the content.
 
-#### SSL
-This page is not encrypted because I'm not collecting any data. It's less workd and I don't care about page rank.
-
 #### Simulation Analysis
 I'm fascinated with the idea that we might be living in a simulation. [Kurzgesagt Video on Youtube](https://www.youtube.com/watch?v=tlTKTTt47WE)
 
