@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Template"
+title:  "Autho Walker - It's a Title [BookReview][9/10]"
 date:   2017-11-26 11:26:43 +0200
-categories: jekyll update
+categories: jekyll book
 tags:
   - bookreview
 ---
-### title & author
+### 
+### tl;dr
 
 ![My helpful screenshot]({{ "/assets/img/anarchy.jpg" | absolute_url }}){:class="seb-img"}
 
-### tl;dr
 ### Read If
 ### Key Messages
 ### Do I Agree

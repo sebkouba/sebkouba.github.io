@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Why We Sleep [BookReview][9/10]"
+title:  "Matthew Walker - Why We Sleep [BookReview][9/10]"
 date:   2017-11-26 11:26:43 +0200
 categories: book
 tags:
   - bookreview
 ---
-### Matthew Walker - Why We Sleep
-
-![My helpful screenshot]({{ "/assets/img/nosleep.jpeg" | absolute_url }}){:class="seb-img"}
-
 ### tl;dr
 - Around 50% of ADHD diagnosis in children might actually be down to sleep deprivation!
 - Few things that seem harmless will impact your health as much as even slight lack of sleep
@@ -17,6 +13,8 @@ tags:
 - If you want Alzheimers asap make sure to be chronically sleep deprived
 - Not many people are aware how big a deal sleep loss is because:
 - You won't know how sleep deprived you really are when you are sleep deprived (unlike being drunk!)
+
+![My helpful screenshot]({{ "/assets/img/nosleep.jpeg" | absolute_url }}){:class="seb-img"}
 
 ### Read This Book If
 If you're interested in maximising your mental and physical performance, sleep and thus this book can be of great help. Only people who enjoy great sleep quality and quantity will benefit from this book slightly less than everybody else. Since many people do have problmes with their sleep at some point during their lifetime, most people would find helpful information within.

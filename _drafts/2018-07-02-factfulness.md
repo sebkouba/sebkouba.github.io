@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "Template"
-date:   2017-11-26 11:26:43 +0200
+title:  "Hans Rosling - Factfulness [10/10]"
+date:   2018-7-21 11:26:43 +0200
 categories: jekyll update
 tags:
   - bookreview
 ---
-### Factfulness, Hans Rosling
-
-![My helpful screenshot]({{ "/assets/img/anarchy.jpg" | absolute_url }}){:class="seb-img"}
-
 ### tl;dr
 The world has become a much nicer place the you might think, especially over the last 50 years. Unfortunately we often barely notice.
+
+![My helpful screenshot]({{ "/assets/img/anarchy.jpg" | absolute_url }}){:class="seb-img"}
 
 ### Read If
 - You want to have a more objective view of the world
