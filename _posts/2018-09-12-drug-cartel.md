@@ -26,6 +26,14 @@ tags:
 - Legal Marijuana is cutting into cartel profits so go for it! 
 - Legal drugs mean better products, oversight, regulation, tax income, reduced crime rates
 - Prisons make recruitment for Cartels much easier than it should be
+- Spending money on fighting cocaine at different points in the chain makes a huge difference:
+   - $1M at source -> 10kg less in USA
+   - $1m against smuggling -> 20kg less
+   - $1m on education in schools -> 25kg less
+   - $1m on addict treatment -> 100kg less
+- In Switzerland the treatment approach lead to a collapse in the illegal Heroin market
+- Politicians love spending money on fighting crime because guns look cool and treating addicts doesn't
+- War on Drugs has globally cost over a trilliion USD and the result is a roughly 50% increase in consumption - success
 
 ### Do I Agree
 - Yes. Legalize and treat addicts instead of funding cartels indirectly. Cars are more lethal than weed and we managed there ffs.
