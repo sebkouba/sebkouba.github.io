@@ -14,7 +14,10 @@ permalink: /resources/
 #### [Saving Capitalism - Netflix](https://www.netflix.com/title/80127558){:target="_blank"}
 Amazing documentary about how the (in this case American) elite is rigging the economy to their advantage. It's hard to dismiss as conspiracy or nonsense since the source is Robert Reich, former Secretary of Labor!
 
-## --- Acrobatics ---
+## --- Acrobatics / Exercise ---
+
+[Everything in one Youtube Playlist](https://www.youtube.com/playlist?list=PLTg_Nbrrux3-VTklv7gpiS1L2YhxG5Z34){:target="_blank"}
+
 ### Random 
 The host is a moron but the guy he has on knows some good exercises.
 - [How to handstand 7/10](https://www.youtube.com/watch?v=TyGSFUmXDSA){:target="_blank"}
